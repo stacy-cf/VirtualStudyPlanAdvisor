@@ -15,11 +15,6 @@ studentFile_var = tk.StringVar()
 catalogFile_var = tk.StringVar()
 selected = IntVar()
 
-#path: /Users/stacyfortes/Documents/cps3320/CS_Student2.xlsx
-#path: /Users/stacyfortes/Documents/cps3320/CS_Student.xlsx
-
-#path for electives: /Users/stacyfortes/Documents/cps3320/CS_Electives.xlsx
-#path for requirements: /Users/stacyfortes/Documents/cps3320/CS_Requirements.xlsx
 
 #functions 
 def submit():
